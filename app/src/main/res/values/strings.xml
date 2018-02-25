@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>~
+    <string name="type">Type</string>
+    <string name="name">Author Name</string>
+    <string name="date">Date</string>
+
+    <string name="no_internet_available">No internet available.</string>
+    <string name="no_news"> No myNews found. </string>
+
+</resources>
